@@ -1,3 +1,3 @@
 > ## [July 15]
-  - Start the project
-  - **TODO**: Fetch the api
+  - [ ] Start the project
+  - [ ] Fetch the api
